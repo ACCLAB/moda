@@ -5,4 +5,6 @@ website:
       - 01_Introduction.ipynb
       - 02_Quick_tour_of_the_Notebook.ipynb
       - 03_Data_Analysis_with_Jupyter_and_Python.ipynb
+      - 03b_Bonus_PCA_Analysis.ipynb
       - 04_Dabest_introduction.ipynb
+      - 05_Additional_Resources.ipynb
