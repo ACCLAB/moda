@@ -8,18 +8,18 @@ Ho](https://twitter.com/jacuzzijo), [Yishan
 Mai](https://twitter.com/myish_irl), and [Adam
 Claridge-Chang](http://www.claridgechang.net/)
 
-### This material is used in the following classes:
+### Introducing biomedical scientists to data analysis with Python
+
+The goal of this class is to introduce biomedical scientists to data
+analysis with Python notebooks. Ideally, this should be a semester-long
+course. This 2-hour class is presented to two groups.
 
 - Duke-NUS PhD programme in Clinical and Translational Sciences.
   Foundations of Precision Medicine Hands-on Workshops (GMS6812).
 - Duke-NUS PhD programme in Integrated Biology and Medicine. Ethics and
   Personal and Professional Development Sessions.
 
-The goal of this class is to introduce biomedical scientists to data
-analysis with Python notebooks. Ideally, this should be a semester-long
-course, but has been limited to this 2-hour class.
-
-The class has the following steps:
+### The class has the following steps
 
 1.  **Preparation 1.** Read the [Introduction](introduction.html) and
     install the prerequisite software on your laptop.
@@ -34,6 +34,8 @@ The class has the following steps:
 5.  **Short introduction to estimation and LLMs.** Introduction to
     estimation statistics [web app](https://www.estimationstats.com/#/)
     and [python package](dabest_introduction.html).
+6.  **Continuing education.** Review the Additional Resources page to
+    continue your self-education in data analysis.
 
 If you have any questions about these materials, please contact your
 course coordinator.
