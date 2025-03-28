@@ -8,29 +8,32 @@ Ho](https://twitter.com/jacuzzijo), [Yishan
 Mai](https://twitter.com/myish_irl), and [Adam
 Claridge-Chang](http://www.claridgechang.net/)
 
-**This material is used in Duke-NUS Medical School classes:** \*
-GMS6812: Foundations of Precision Medicine hands-on workshops for the
-PhD programme in Clinical and Translational Sciences. \* Duke-NUS PhD
-programme in Integrated Biology and Medicine. Ethics and Personal and
-Professional Development Sessions
+### This material is used in the following classes:
+
+- Duke-NUS PhD programme in Clinical and Translational Sciences.
+  Foundations of Precision Medicine Hands-on Workshops (GMS6812).
+- Duke-NUS PhD programme in Integrated Biology and Medicine. Ethics and
+  Personal and Professional Development Sessions.
 
 The goal of this class is to introduce biomedical scientists to data
-analysis with Python notebooks. There are two parts to the session: a
-lecture on the key issues in data analysis and a hands-on tutorial.
-Please do the following preparations before class.
+analysis with Python notebooks. Ideally, this should be a semester-long
+course, but has been limited to this 2-hour class.
 
-1.  Read the [Introduction](introduction.html) and install the
-    prerequisite software on your laptop.
-2.  Go through a [Quick Tour of the
+The class has the following steps:
+
+1.  **Preparation 1.** Read the [Introduction](introduction.html) and
+    install the prerequisite software on your laptop.
+2.  **Preparation 2.** Go through a [Quick Tour of the
     Notebook](quick_tour_of_the_notebook.html) to familiarise yoruself
     to the jupyter notebook environment.
-3.  Bring your laptop to class, and we will go through the examples in
-    [Data Analysis with
+3.  **Session Coding.** Bring your laptop to class, and we will go
+    through the examples in [Data Analysis with
     Jupyter](data_analysis_with_jupyter_and_python.html).
-
-If we have more time in class, you will also be introduced to our
-estimation statistics package [DABEST
-Introduction](dabest_introduction.html).
+4.  **Lecture.** Crash course on the history of and key issues in data
+    visualization.
+5.  **Short introduction to estimation and LLMs.** Introduction to
+    estimation statistics [web app](https://www.estimationstats.com/#/)
+    and [python package](dabest_introduction.html).
 
 If you have any questions about these materials, please contact your
 course coordinator.
