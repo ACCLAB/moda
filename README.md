@@ -21,19 +21,21 @@ course. This 2-hour class is presented to two groups.
 
 ### The class has the following steps
 
-1.  **Preparation 1.** Read the [Introduction](introduction.html) and
+1.  **Preparation 1.** Read the
+    [Introduction](https://acclab.github.io/moda/introduction.html) and
     install the prerequisite software on your laptop.
 2.  **Preparation 2.** Go through a [Quick Tour of the
-    Notebook](quick_tour_of_the_notebook.html) to familiarise yoruself
-    to the jupyter notebook environment.
+    Notebook](https://acclab.github.io/moda/quick_tour_of_the_notebook.html)
+    to familiarise yourself to the jupyter notebook environment.
 3.  **Session Coding.** Bring your laptop to class, and we will go
     through the examples in [Data Analysis with
-    Jupyter](data_analysis_with_jupyter_and_python.html).
+    Jupyter](https://acclab.github.io/moda/data_analysis_with_jupyter_and_python.html).
 4.  **Lecture.** Crash course on the history of and key issues in data
     visualization.
 5.  **Short introduction to estimation and LLMs.** Introduction to
     estimation statistics [web app](https://www.estimationstats.com/#/)
-    and [python package](dabest_introduction.html).
+    and [python
+    package](https://acclab.github.io/moda/dabest_introduction.html).
 6.  **Continuing education.** Review the Additional Resources page to
     continue your self-education in data analysis.
 
